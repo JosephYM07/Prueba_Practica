@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("\t\tLiteratura");
-        //Se crea un objeto de la clase Literatura
+        //Se crea un objeto de la clase Literatura para cada libro
         Literatura libro1 = new Literatura("J.K. Rowling", "Salamandra", 1997, 256, "Harry Potter", "Harry Potter y la piedra filosofal");
         Literatura libro2 = new Literatura("Netherfield, Meryton", "Lambon", 1813, 448, "Darcy junto a Elizabeth", "Orgullo y prejuicio");
         Literatura libro3 = new Literatura("Virginia Woolf", "BritahsYK", 1876, 238, " Septimus Warren Smith, Clarissa Dalloway, Richard Dalloway, Hugh Whitbread, Rezia Warren Smith", "La señora Dalloway");
